@@ -63,7 +63,7 @@ I'm also **joining technology projects within the enterprise**, which is allowin
 
 ## Currently learning from
 
-- University coursework (UFC Russas — Computer Science)
+- University coursework (UFC Russas — Software Engineering)
 - Personal study: Java, Git, backend concepts
 - Include Jr projects and team experience
 
